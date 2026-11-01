@@ -1,0 +1,3 @@
+tomate;1000
+
+lechuga;1000

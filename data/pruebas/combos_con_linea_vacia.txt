@@ -1,0 +1,3 @@
+combo corral;10%;corral;papas medianas;gaseosa
+
+combo especial;9.5%;especial;papas medianas;gaseosa
